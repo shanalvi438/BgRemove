@@ -1,0 +1,5 @@
+{
+    "require": {
+        "activecampaign/api-php": "^2.0"
+    }
+}
