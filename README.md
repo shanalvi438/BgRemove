@@ -1,1 +1,2 @@
 # BgRemove
+Install compoer
